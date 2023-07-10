@@ -1,0 +1,40 @@
+/* * {
+  background-color: #FFFFFA
+} */
+
+.gradient {
+  background: linear-gradient(-45deg, #702632, #080705);
+
+}
+
+
+.crd {
+  transition: transform 450ms;
+}
+
+.crd:hover {
+  transition: transform 125ms;
+  transform: translateY(-10px);
+}
+
+.cartLogo {
+  background-color: #080705;
+  fill: #FFFFFA;
+  height: 4rem;
+  width: 4rem;
+}
+
+
+
+
+/* .test-button {
+  margin: 6px;
+  height: fit-content;
+  width: fit-content;
+  border-style: solid;
+} */
+
+
+.countIcon {
+  fill: #FFFFFA;
+}
